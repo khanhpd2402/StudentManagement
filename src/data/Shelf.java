@@ -72,5 +72,6 @@ public class Shelf {
         for (int i = 0; i < count; i++) {
             list[i].showProfile();
         }
+        
     }
 }
